@@ -2,7 +2,7 @@
 
 ## Team Members
 - Sally Sun
-- Fay Ma
+- Faye Ma
 - Tina Liang
 
 ## Project Description
