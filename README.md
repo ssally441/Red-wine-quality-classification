@@ -1,9 +1,9 @@
 # Wine Quality Classification Project
 
 ## Team Members
-- Name 1
-- Name 2
-- Name 3
+- Sally Sun
+- Fay Ma
+- Tina Liang
 
 ## Project Description
 This project builds classification models to predict red wine quality using machine learning methods.
